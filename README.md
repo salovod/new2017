@@ -34,3 +34,5 @@ ANDROID_HOME  => e.g. G:\Android
 Add to PATH:
 * %ANDROID_HOME%\tools
 * %ANDROID_HOME%\platform-tools
+#Install NodeJS
+https://nodejs.org/uk/download/
