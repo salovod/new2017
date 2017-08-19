@@ -29,3 +29,8 @@ https://github.com/appium/appium-desktop/releases/tag/v1.2.0-beta.1
 
 # Android SDK
 http://www.softportal.com/get-9680-android-sdk.html
+Add system variables:
+ANDROID_HOME  => e.g. G:\Android
+Add to PATH:
+* %ANDROID_HOME%\tools
+* %ANDROID_HOME%\platform-tools
