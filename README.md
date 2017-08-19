@@ -41,6 +41,7 @@ https://nodejs.org/uk/download/
 
 # Run next:
 npm install -g appium
+npm install appium-doctor -g
 appium
 
 
