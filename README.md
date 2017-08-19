@@ -29,7 +29,7 @@ https://github.com/appium/appium-desktop/releases/tag/v1.2.0-beta.1
 
 # Android SDK
 http://www.softportal.com/get-9680-android-sdk.html
-And update required from SDK Manager.
+And update required from SDK Manager + install HAXM in Extras folder.
 Add system variables:
 ANDROID_HOME  => e.g. G:\Android
 Add to PATH:
