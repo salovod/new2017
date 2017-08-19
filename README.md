@@ -38,6 +38,6 @@ Add to PATH:
 https://nodejs.org/uk/download/
 
 
-#Run next:
+# Run next:
 npm install -g appium
 appium
