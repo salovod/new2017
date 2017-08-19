@@ -1,9 +1,9 @@
-# TestNG
-Selenide
-??Selenium Grid
-Appium
-Gradle
-Allure
+* TestNG
+* Selenide
+* ??Selenium Grid
+* Appium
+* Gradle
+* Allure
 
 
 ----------------------
