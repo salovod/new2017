@@ -36,3 +36,8 @@ Add to PATH:
 * %ANDROID_HOME%\platform-tools
 #Install NodeJS
 https://nodejs.org/uk/download/
+
+
+#Run next:
+npm install -g appium
+appium
