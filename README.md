@@ -54,10 +54,9 @@ appium
 - Create new Device.
 
 # Download Chrome.apk
-http://trashbox.mobi/files30/862377/chrome_60.0.3112.97-21arm.apk/
+https://www.apkmirror.com/apk/google-inc/chrome/chrome-58-0-3029-83-release/chrome-browser-58-0-3029-83-6-android-apk-download/
 
 move to C:/Users/%USER%
 
 then:
-adb install chrome_.....
-
+adb install %FILE_NAME%
