@@ -30,6 +30,11 @@ https://github.com/appium/appium-desktop/releases/tag/v1.2.0-beta.1
 # Android SDK
 http://www.softportal.com/get-9680-android-sdk.html
 And update required from SDK Manager + install HAXM in Extras folder.
+
+For Intel: 
+https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
+
+
 Add system variables:
 ANDROID_HOME  => e.g. G:\Android
 Add to PATH:
@@ -48,4 +53,11 @@ appium
 # Run SDK Manager and Configure:
 - Create new Device.
 
+# Download Chrome.apk
+http://trashbox.mobi/files30/862377/chrome_60.0.3112.97-21arm.apk/
+
+move to C:/Users/%USER%
+
+then:
+adb install chrome_.....
 
