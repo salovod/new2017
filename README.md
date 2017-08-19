@@ -1,9 +1,9 @@
-# + TestNG
-++++++++ Selenide
+# TestNG
+Selenide
 ??Selenium Grid
-+Appium
-+Gradle
-+Allure
+Appium
+Gradle
+Allure
 
 
 ----------------------
@@ -44,7 +44,7 @@ npm install -g appium
 appium
 
 
-#Run SDK Manager and Configure:
+# Run SDK Manager and Configure:
 - Create new Device.
 
 
